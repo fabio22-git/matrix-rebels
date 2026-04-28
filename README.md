@@ -14,11 +14,11 @@ Questo progetto documenta un'attività intensiva di simulazione d'attacco (Adver
 
 ### 🛠️ Tecnologie e Strumenti Utilizzati
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
