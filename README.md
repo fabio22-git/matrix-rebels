@@ -48,4 +48,4 @@ Risoluzione e mappatura completa di macchine Boot2Root (Jangow 01, LupinOne):
 
 ### 📂 Risorse del Progetto
 
-- 📄 **[Report Tecnico Finale - Security Audit & CTF (PDF)](INCOLLA_QUI_IL_LINK_CHE_COPIERAI)**: Documentazione completa di tutte le fasi di assessment, metodologie d'attacco e raccomandazioni di sicurezza.
+- 📄 **[Report Tecnico Finale - Security Audit & CTF (PDF)](https://github.com/fabio22-git/matrix-rebels/blob/main/Build_week_2.pdf)**: Documentazione completa di tutte le fasi di assessment, metodologie d'attacco e raccomandazioni di sicurezza.
